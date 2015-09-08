@@ -7,6 +7,10 @@ https://github.com/eeshi/node-scrapy
 
 https://github.com/request/request
 
+Ademas te puede enviar notificaciones a un canal de Slack, solo tienes que crear una integracion con un bot, y agregas tu token y listo.
+
 Luego solo corre el script como:
 
 node scrapeElecciones2015.js
+
+Tomar en cuenta que por el momento hace un pull de la informacion cada 30 segundos.
